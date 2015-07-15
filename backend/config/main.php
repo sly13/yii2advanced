@@ -28,7 +28,7 @@ return [
         ],
         'request' => [
             'baseUrl' => '/admin'
-        ]
+        ],
         'user' => [
             'identityClass' => 'common\models\User',
             'enableAutoLogin' => true,
